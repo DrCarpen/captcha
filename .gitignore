@@ -1,0 +1,5 @@
+demo/*.jpg
+demo/*.pgm
+demo/temp/
+vendor/
+/.idea/*
